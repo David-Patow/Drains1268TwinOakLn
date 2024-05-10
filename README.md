@@ -14,9 +14,9 @@ It seems to me that the original design for drainage of this area includes four 
 (3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  
 (4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.
 
-These blockages are causing regular, notable flooding, and have the potential of causing property damage.
+The blocked driveway conduit at 6951 Smith Rd is preventing water from reaching the (blocked) under-road conduit at the corner of Smith Rd/Weber Ln.
 
-I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is actually causing trouble here, but clearing it seems prudent and restores flexibility to the drain system.
+These blockages are causing regular, notable flooding, and have the potential of causing property damage.
 
 Please, would you take a look at these photos, and let me know how we should move forward?
 
