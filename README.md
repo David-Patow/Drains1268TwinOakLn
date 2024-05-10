@@ -1,6 +1,6 @@
-# Drains1268TwinOakLn
+# The Ditches of 1268 Twin Oak Ln
 
-Here's a quick tour of the ditches and drains around 1268 Twin Oak Ln, after a typical rainfall.
+Here's a quick tour of the ditches and drains around 1268 Twin Oak Ln, after a typical (not *torential*) rainfall.
 
 In brief, I think there are 4 spots that need attention: one blocked ditch, two blocked driveway conduits, and one blocked roadway conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln drain, then exits by a single, 8" conduit.
 
