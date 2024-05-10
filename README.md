@@ -6,9 +6,15 @@ I ask that you consider this situation, give your opinion on what is causing the
 
 In brief, I think there are four spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked under-road conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then exits by an 8" conduit under Weber Ln.
 
-Also, as the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
+Also, as the Twin Oak Ln ditch does not have a proper outflow, it remains filled with water for several days after any rain, which breeds mosquitoes and is an attractive nuisance for small children.
 
-It seems to me that the original design for drainage of this area includes four outflows, but only one is still working: (1) The Twin Oak Ln ditch to the creek is blocked, (2) the Weber Ln ditch to the creek is blocked, and (3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  (4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.  These blockages are causing regular, notable flooding, and have the potential of causing property damage.
+It seems to me that the original design for drainage of this area includes four outflows, but only one is still working:  
+(1) The Twin Oak Ln ditch to the creek is blocked,  
+(2) the Weber Ln ditch to the creek is blocked, and  
+(3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  
+(4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.
+
+These blockages are causing regular, notable flooding, and have the potential of causing property damage.
 
 I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is actually causing trouble here, but clearing it seems prudent and restores flexibility to the drain system.
 
@@ -19,7 +25,7 @@ David Patow
 
 ---
 
-Photo B : An overview of the properties, indicating the location of each of the following photos (*yellow arrows*) and the 4 suspected blockages (*orange arrows*).
+Photo B : An overview of the properties, indicating the water flow (*blue arrows*), the location of each of the following photos (*yellow arrows*), and the 4 suspected blockages (*orange arrows*).
 
 ![B - Patow-Drain-B.jpg](Patow-Drain-B.jpg)
 
