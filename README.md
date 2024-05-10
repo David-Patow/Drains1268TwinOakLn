@@ -2,15 +2,15 @@
 
 Here's a quick tour of the ditches and drains around 1268 Twin Oak Ln, after a typical rainfall.
 
-In brief, I think there are 4 spots that need attention.  Due to these blockages, all the rainwater overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln drain, then exits by a single, 8" conduit.
+In brief, I think there are 4 spots that need attention: one blocked ditch, two blocked driveway conduits, and one blocked roadway conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln drain, then exits by a single, 8" conduit.
 
-As the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes.
+As the Twin Oak Ln ditch does not have a proper outflow, it also is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
 
 Photo B : An overview of the properties, indicating the location of each of the following photos (*yellow arrows*) and the 4 suspected blockages (*orange arrows*).
 
 ![B - Patow-Drain-B.jpg](Patow-Drain-B.jpg)
 
-Photo C : The ditches on Twin Oak Ln, full from rainfall.  The same-level water implies that there is no blockage under the driveway.
+Photo C : Looking up Twin Oak Ln from the driveway of 1268, towards Smith Rd.  The ditches are full from a typical rainfall.  The water levels and visible flow imply that there is no blockage under either driveway.
 
 ![C - Patow-Drain-B.jpg](Patow-Drain-C.jpg)
 
@@ -18,15 +18,15 @@ Photo D : Lawn flooding at the corner of 6951 Smith Rd.
 
 ![D - Patow-Drain-B.jpg](Patow-Drain-D.jpg)
 
-Photo E : Looking up Smith Rd.
+Photo E : Looking up Smith Rd towards Weber Ln.
 
 ![E - Patow-Drain-B.jpg](Patow-Drain-E.jpg)
 
-Photo F : The higher water level on the close side of the driveway implies that the conduit here is blocked.  Further, there is no evidence of outflow from the far ditch segment.
+Photo F : At 6951 Smith Rd, the higher water level on the close side of the driveway implies that the conduit here is blocked.  Further, there is no evidence of outflow from the far ditch segment.
 
 ![F - Patow-Drain-B.jpg](Patow-Drain-F.jpg)
 
-Photo G : At the corner of Smith Rd and Weber Ln, there is no obvious pipe, yet I see a small bit of percolating water.  Is the pipe covered-up?
+Photo G : At the corner of Smith Rd and Weber Ln, there is no obvious pipe, yet I see a small bit of percolating water.  Is the pipe end covered?  Or, could this be flowing from underground, under the roadway?
 
 ![G - Patow-Drain-B.jpg](Patow-Drain-G.jpg)
 
