@@ -27,7 +27,7 @@ David Patow
 
 ---
 
-Photo B : An overview of the properties, indicating the water flow (*blue arrows*), the location of each of the following photos (*yellow arrows*), and the 4 suspected blockages (*orange arrows*).
+Photo B : An overview of the properties, indicating the undesirable water flow (*blue arrows*), the location of each of the following photos (*yellow arrows*), and the 4 suspected blockages (*orange arrows*).
 
 ![B - Patow-Drain-B.jpg](Patow-Drain-B.jpg)
 
