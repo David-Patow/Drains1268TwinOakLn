@@ -2,13 +2,13 @@
 
 Here's a quick tour of the blocked & overflowing ditches and conduits around 1268 Twin Oak Ln, after a typical rainfall.
 
-I ask that you thoughtfully consider this situation, give your opinion on what is causing the flooding, take any action that is within the role of your office, and provide advice about anything that I should do.
+I ask that you consider this situation, give your opinion on what is causing the flooding, take any action that is within the role of your office, and provide advice about anything that I should do.  I'm new to these parts, and I'm wondering who has responsibility for each of these issues.
 
-In brief, I think there are 4 spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked (*or missing?*) under-road conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then exits by an 8" conduit under Weber Ln.
+In brief, I think there are four spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked under-road conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then exits by an 8" conduit under Weber Ln.
 
 Also, as the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
 
-It seems to me that the original design for drainage of this area includes four outflows, but only one is still working.  (1) The Twin Oak Ln ditch to the creek is blocked, (2) the Weber Ln ditch to the creek is blocked, and (3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  (4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.  These blockages are causing regular, notable flooding, and have the potential of causing property damage.
+It seems to me that the original design for drainage of this area includes four outflows, but only one is still working: (1) The Twin Oak Ln ditch to the creek is blocked, (2) the Weber Ln ditch to the creek is blocked, and (3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  (4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.  These blockages are causing regular, notable flooding, and have the potential of causing property damage.
 
 I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is actually causing trouble here, but clearing it seems prudent and restores flexibility to the drain system.
 
@@ -43,11 +43,11 @@ Photo G : At the corner of Smith Rd and Weber Ln, there is no obvious pipe, yet 
 
 ![G - Patow-Drain-B.jpg](Patow-Drain-G.jpg)
 
-Photo H : On Smith Rd, looking down Weber Ln.
+Photo H : On Smith Rd, looking down Weber Ln, towards the creek.  The ditch on Weber Ln here is quite shalllow, but I don't think that's part of the problem.
 
 ![H - Patow-Drain-B.jpg](Patow-Drain-H.jpg)
 
-Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln, towards the creek.  Water under the driveway is flowing.  In the distance, the blockage is indicated.
+Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln, towards the creek.  Water under the driveway is flowing.  The overflow is visible.  In the distance, the blockage is indicated.
 
 ![I - Patow-Drain-B.jpg](Patow-Drain-I.jpg)
 
@@ -89,4 +89,5 @@ Photo T : Close-up of the 8" outflow.
 
 If you made it this far, THANKS!  I look forward to hearing your opinion about all this, and to working with you to solve it.
 
--/-
+---
+---
