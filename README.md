@@ -1,14 +1,16 @@
 # The Ditches of 1268 Twin Oak Ln
 
-Here's a quick tour of the ditches and drains around 1268 Twin Oak Ln, after a typical rainfall.
+Here's a quick tour of the blocked & overflowing ditches and conduits around 1268 Twin Oak Ln, after a typical rainfall.
 
-In brief, I think there are 4 spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked roadway conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln drain, then exits by a single, 8" conduit.
+I ask that you thoughtfully consider this situation, give your opinion on what is causing the flooding, take any action that is within the role of your office, and provide advice about anything remaining that I should do.
 
-As the Twin Oak Ln ditch does not have a proper outflow, it also is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
+In brief, I think there are 4 spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked (*or missing*) roadway conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln drain, then exits by a single, 8" conduit.
+
+As the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
 
 It seems to me that the original design for drainage of this area includes four outflows, but only one is still working.  The Twin Oak Ln ditch to the creek is blocked, the Weber Ln ditch to the creek is blocked, and the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  The 8" conduit that is behind 1268 Twin Oak Ln is the only working outflow.  These blockages are causing notable flooding, and have the potential of causing property damage.
 
-I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is causing trouble here, but clearing it seems prudent.
+I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is causing trouble here, but clearing it seems prudent and restores flexibility to the system.
 
 Photo B : An overview of the properties, indicating the location of each of the following photos (*yellow arrows*) and the 4 suspected blockages (*orange arrows*).
 
