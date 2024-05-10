@@ -6,11 +6,18 @@ I ask that you thoughtfully consider this situation, give your opinion on what i
 
 In brief, I think there are 4 spots that beg attention: a blocked ditch, two blocked driveway conduits, and a blocked (*or missing?*) under-road conduit.  Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then exits by an 8" conduit under Weber Ln.
 
-As the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
+Also, as the Twin Oak Ln ditch does not have a proper outflow, it is usually filled with water, even during dry times, which breeds mosquitoes and is an attractive nuisance for grandchildren 😄.
 
 It seems to me that the original design for drainage of this area includes four outflows, but only one is still working.  (1) The Twin Oak Ln ditch to the creek is blocked, (2) the Weber Ln ditch to the creek is blocked, and (3) the under-road conduit at the corner of Smith Rd/Weber Ln is blocked.  (4) The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.  These blockages are causing regular, notable flooding, and have the potential of causing property damage.
 
-I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is causing trouble here, but clearing it seems prudent and restores flexibility to the drain system.
+I'm uncertain whether the blocked driveway conduit at 6951 Smith Rd is actually causing trouble here, but clearing it seems prudent and restores flexibility to the drain system.
+
+Please, would you take a look at these photos, and let me know how we should move forward?
+
+Thanks,
+David Patow
+
+---
 
 Photo B : An overview of the properties, indicating the location of each of the following photos (*yellow arrows*) and the 4 suspected blockages (*orange arrows*).
 
@@ -40,7 +47,7 @@ Photo H : On Smith Rd, looking down Weber Ln.
 
 ![H - Patow-Drain-B.jpg](Patow-Drain-H.jpg)
 
-Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln.  Water under the driveway is flowing.  In the distance, the blockage is indicated.
+Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln, towards the creek.  Water under the driveway is flowing.  In the distance, the blockage is indicated.
 
 ![I - Patow-Drain-B.jpg](Patow-Drain-I.jpg)
 
@@ -68,11 +75,11 @@ Photo Q : Close-up of the far side of the driveway, showing no water.
 
 ![Q - Patow-Drain-B.jpg](Patow-Drain-Q.jpg)
 
-Photo R : Backing up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the homeowner of pre-existing, overgrown garden.  It is not part of this problem, as very little water flows **through** this blocked ditch.
+Photo R : Backing up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the new homeowner of pre-existing, overgrown garden.  It is not part of this problem, as no ditches flow *into* this garden area.  However, our intent is to fully restore the ditch here, as that would improve the backyard lawn drainage.
 
 ![R - Patow-Drain-B.jpg](Patow-Drain-R.jpg)
 
-Photo S : Location of the 8" conduit outflow.
+Photo S : Location of the 8" conduit outflow under Weber Ln.
 
 ![S - Patow-Drain-B.jpg](Patow-Drain-S.jpg)
 
@@ -80,4 +87,6 @@ Photo T : Close-up of the 8" outflow.
 
 ![T - Patow-Drain-B.jpg](Patow-Drain-T.jpg)
 
-If you made it this far, THANKS!
+If you made it this far, THANKS!  I look forward to hearing your opinion about all this, and to working with you to solve it.
+
+-/-
