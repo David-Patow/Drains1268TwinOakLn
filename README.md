@@ -18,7 +18,7 @@ It seems to me that the original design for drainage of this area includes four 
   * The under-road conduit at the corner of Smith Rd/Weber Ln is blocked.
   * The small conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.
 
-By clearing these blockages, the rain water would exit more easily and completely, avoiding property damage and discouraging mosquitos.
+By clearing these blockages, the rain water would exit more easily and completely, avoiding property damage and preventing mosquitos.
 
 Please, would you take a look at these photos, and let me know how to correct this?
 
