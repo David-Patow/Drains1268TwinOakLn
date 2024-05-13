@@ -2,28 +2,30 @@
 
 Here's a quick tour of the blocked & overflowing ditches and conduits around 1268 Twin Oak Ln, after a typical rainfall.
 
-I ask that you consider this situation, give your opinion on what is causing the flooding, take any action that is within the role of your office, and provide advice about anything that I should do.  I'm new to these parts, and I'm wondering who has responsibility for each of these issues, and how best to address them with my neighbors.
+Is my analysis correct?  Is this working as designed?  What should I do?  What can you do?  I'm new to these parts, and I'm wondering who has responsibility for each of these issues, and how best to address them with my neighbors.
 
 In brief, I think there are four spots that beg attention:  
-(1) The blocked ditch on Twin Oak Ln, behind the backyard of 1259 Weber Ln (Photo L),  
-(2) The blocked driveway conduit at 1259 Weber Ln (Photo P),  
-(3) The blocked driveway conduit at 6951 Smith Rd (Photo F), and  
-(4) The blocked under-road conduit at Smith Rd and Weber Rd (Photo G).
+  - The blocked ditch on Twin Oak Ln, behind the backyard of 1259 Weber Ln (Photo L),  
+  - The blocked driveway conduit at 1259 Weber Ln (Photo P),  
+  - The blocked driveway conduit at 6951 Smith Rd (Photo F), and  
+  - The blocked under-road conduit at Smith Rd and Weber Rd (Photo G).
 
-Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then finally exits via an 8" conduit under Weber Ln.
+Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then finally exits via an 8" conduit under Weber Ln.  (Blue arrows on Photo B)
 
 It seems to me that the original design for drainage of this area includes four outflows, but only one is still working:  
   * The Twin Oak Ln ditch to the creek is blocked,
   * The Weber Ln ditch to the creek is blocked, and
   * The under-road conduit at the corner of Smith Rd/Weber Ln is blocked.
-  * The 8" conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.
+  * The small conduit that is under Weber Ln, behind 1268 Twin Oak Ln, is the only working outflow.
 
-By clearing these blockages, we will allow the rain water to exit more easily, quickly and completely, which will avoid future property damage and discourage mosquitos.
+By clearing these blockages, the rain water exits more easily and completely, which avoids property damage and discourages mosquitos.
 
-Please, would you take a look at these photos, and let me know how we should move forward?
+Please, would you take a look at these photos, and let me know how we can correct this?
 
 Thanks,
-David Patow
+David Patow  
+mail: David.Patow@Live.com  
+phone: 248-417-3687
 
 ---
 
@@ -83,15 +85,15 @@ Photo Q : Close-up of the far side of the driveway, showing no water.
 
 ![Q - Patow-Drain-B.jpg](Patow-Drain-Q.jpg)
 
-Photo R : Backing up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the new homeowner of pre-existing, overgrown garden.  It is not part of this problem, as no ditches flow *into* this garden area.  However, our intent is to fully restore the ditch here, as that would improve the backyard lawn drainage.
+Photo R : Shuffling back up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the new homeowner of pre-existing, overgrown garden.  It is not part of this drain problem, as no ditches flow *into* this garden area.  However, our intent is to fully restore the ditch here, to improve the backyard lawn drainage.
 
 ![R - Patow-Drain-B.jpg](Patow-Drain-R.jpg)
 
-Photo S : Location of the 8" conduit outflow under Weber Ln.
+Photo S : Location of the small conduit outflow under Weber Ln.
 
 ![S - Patow-Drain-B.jpg](Patow-Drain-S.jpg)
 
-Photo T : Close-up of the 8" outflow.
+Photo T : Close-up of the small outflow.
 
 ![T - Patow-Drain-B.jpg](Patow-Drain-T.jpg)
 
