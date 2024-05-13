@@ -57,11 +57,11 @@ Photo H : On Smith Rd, looking down Weber Ln, towards the creek.  The ditch on W
 
 ![H - Patow-Drain-B.jpg](Patow-Drain-H.jpg)
 
-Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln, towards the creek.  Water under the driveway is flowing.  The overflow is visible.  In the distance, the blockage is indicated.
+Photo I : Back at the same spot as Photo C, but looking down Twin Oak Ln, towards the creek.  Water under the driveway is flowing.  In the distance, the overflow onto the lawn is visible.  Further, the blockage is indicated.
 
 ![I - Patow-Drain-B.jpg](Patow-Drain-I.jpg)
 
-Photo K : Further down Twin Oak Ln, the full ditch is now overflowing onto the lawn, heading back towards Weber Ln.
+Photo K : Further down Twin Oak Ln, the full ditch is now overflowing onto the lawn, heading over towards Weber Ln.
 
 ![K - Patow-Drain-B.jpg](Patow-Drain-K.jpg)
 
@@ -85,7 +85,7 @@ Photo Q : Close-up of the far side of the driveway, showing no water.
 
 ![Q - Patow-Drain-B.jpg](Patow-Drain-Q.jpg)
 
-Photo R : Shuffling back up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the new homeowner of pre-existing, overgrown garden.  It is not part of this drain problem, as no ditches flow *into* this garden area.  However, our intent is to fully restore the ditch here, to improve the backyard lawn drainage.
+Photo R : Shuffling back up Weber Ln towards Smith Rd, to see the ditch behind 1268 Twin Oak Ln.  This area is currently being cleared by the new homeowner of pre-existing, overgrown garden.  It is not part of this reported drain problem, as no ditches flow *into* this garden area.  However, our intent is to fully restore the ditch here, to improve the backyard lawn drainage.
 
 ![R - Patow-Drain-B.jpg](Patow-Drain-R.jpg)
 
