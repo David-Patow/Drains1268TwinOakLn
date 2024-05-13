@@ -5,12 +5,12 @@ Here's a quick tour of the blocked & overflowing ditches and conduits around 126
 I ask that you consider this situation, give your opinion on what is causing the flooding, take any action that is within the role of your office, and provide advice about anything that I should do.  I'm new to these parts, and I'm wondering who has responsibility for each of these issues, and how best to address them with my neighbors.
 
 In brief, I think there are four spots that beg attention:  
-(1) The blocked ditch on Twin Oak Ln, behind the backyard of 1259 Weber Ln,  
-(2) The blocked driveway conduit at 1259 Weber Ln,  
-(3) The blocked driveway conduit at 6951 Smith Rd, and  
-(4) The blocked under-road conduit at Smith Rd and Weber Rd.
+(1) The blocked ditch on Twin Oak Ln, behind the backyard of 1259 Weber Ln (Photo L),  
+(2) The blocked driveway conduit at 1259 Weber Ln (Photo P),  
+(3) The blocked driveway conduit at 6951 Smith Rd (Photo F), and  
+(4) The blocked under-road conduit at Smith Rd and Weber Rd (Photo G).
 
-Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then exits via an 8" conduit under Weber Ln.
+Due to these blockages, the rainwater from two properties overflows the Twin Oak Ln ditch, flows across the lawn, collects back in the Weber Ln ditch, then finally exits via an 8" conduit under Weber Ln.
 
 It seems to me that the original design for drainage of this area includes four outflows, but only one is still working:  
   * The Twin Oak Ln ditch to the creek is blocked,
@@ -43,7 +43,7 @@ Photo E : Looking up Smith Rd towards Weber Ln.
 
 ![E - Patow-Drain-B.jpg](Patow-Drain-E.jpg)
 
-Photo F : At 6951 Smith Rd, the higher water level on the close side of the driveway implies that the conduit here is blocked.  Further, there is no visible outflow from the far ditch segment.
+Photo F : At 6951 Smith Rd, the higher water level on the close side of the driveway implies that the conduit here is blocked.  Furthermore, there is no visible outflow from the far ditch segment.
 
 ![F - Patow-Drain-B.jpg](Patow-Drain-F.jpg)
 
